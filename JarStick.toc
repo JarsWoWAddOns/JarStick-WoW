@@ -1,0 +1,12 @@
+## Interface: 120105, 120100
+## Title: JarStick
+## Notes: Gamepad action bars, camera, cursor and interact control. L2/R2 flip bars, R3+L3 mouse mode, Select+stick zoom, Start = Esc, X interacts, menu navigation on the pad.
+## Author: Jar
+## Version: 1.0.0
+## SavedVariables: JarStickDB
+## SavedVariablesPerCharacter: JarStickCharDB
+## OptionalDeps: JarsNPCChat
+
+JarStick.lua
+Interact.lua
+Config.lua
